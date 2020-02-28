@@ -41,8 +41,9 @@ $ crontab -l
 
 If you'd like to configure what applications are cycled automatically
 all you need to do is create a yaml list of strings and place it in your
-home directory. Here is an example of the default `~/.daily-hard-reset.yaml`
+home directory.
 
+Here is an example of the default `~/.daily-hard-reset.yaml`
 ```yaml
 - "Microsoft Outlook"
 - "Slack"
